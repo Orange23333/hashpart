@@ -1,0 +1,12 @@
+[submodule "co_context"]
+	path = 3rd-party/co_context
+	url = https://github.com/Codesire-Deng/co_context
+[submodule "openssl"]
+	path = 3rd-party/openssl
+	url = git://git.openssl.org/openssl.git
+[submodule "glibc"]
+	path = 3rd-party/glibc
+	url = https://sourceware.org/git/glibc.git
+[submodule "pthread-win32"]
+	path = 3rd-party/pthread-win32
+	url = https://github.com/GerHobbelt/pthread-win32
